@@ -11,11 +11,8 @@ function App() {
 
 <h1 className="title red">I N T I S S A R</h1>
 
-<br />
-
 <img src={mypht} className='photo' alt ='myphoto'/>
 
-<br />
 
 <img src="image.jpg" className='image' alt = 'myimage' />
 
